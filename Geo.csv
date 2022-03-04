@@ -1,10 +1,10 @@
-ma,province,cases
-1,Hà Nội,16027178
-2,Hà Giang,1415071
-4,Cao Bằng,922986
-6,Bắc Kạn,515252
-8,Tuyên Quang,1307942
-10,Lào Cai,1422414
+ma,province,vaccine 
+1,Hà Nội,1,602,7178
+2,Hà Giang,1,415,071
+4,Cao Bằng,922,986
+6,Bắc Kạn,515,252
+8,Tuyên Quang,1,307,942
+10,Lào Cai,1,422,414
 11,Ðiện Biên,1044643
 12,Lai Châu,787643
 14,Sơn La,1856653
